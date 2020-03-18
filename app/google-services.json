@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028002104172",
+    "firebase_url": "https://image-text-recognizer.firebaseio.com",
+    "project_id": "image-text-recognizer",
+    "storage_bucket": "image-text-recognizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028002104172:android:3aea4e5e8a652a0ad6e949",
+        "android_client_info": {
+          "package_name": "com.piktorlabs.imagetextrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028002104172-eaajbhhlnk79t27iem7fg1cos6qn1ddk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3E0cPj39BODpflNKOdViVPqgqkaDVW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028002104172-eaajbhhlnk79t27iem7fg1cos6qn1ddk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
